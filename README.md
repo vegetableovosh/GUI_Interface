@@ -17,6 +17,7 @@
    - график рассеяния
      ![image](https://github.com/vegetableovosh/GUI_Interface/assets/60011428/8adea745-f284-45c1-8903-79f75320afee)
    - матрица корреляций
+
      ![image](https://github.com/vegetableovosh/GUI_Interface/assets/60011428/a128861c-7ce4-4806-b267-c5294c1735c4)
    
 
