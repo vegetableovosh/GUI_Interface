@@ -11,10 +11,13 @@
    - «Cancel» – отменяет последние действие
 2) Следующий функционал, который имеет приложение это визуализация данных. Для этого мы задействуем вторую вкладку графического приложения «Visualization», а также будем использовать следующие типы графиков, а именно:
    - столбчатая диаграмма
+   
      ![image](https://github.com/vegetableovosh/GUI_Interface/assets/60011428/bf98fd3f-ba41-4efa-a313-60051ea00f5a)
    - линейный график
+     
      ![image](https://github.com/vegetableovosh/GUI_Interface/assets/60011428/ce7044c2-3186-4b93-84e5-7ea74697ca21)
    - график рассеяния
+     
      ![image](https://github.com/vegetableovosh/GUI_Interface/assets/60011428/8adea745-f284-45c1-8903-79f75320afee)
    - матрица корреляций
 
